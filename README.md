@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bayuYudhaSaputra
 - 👀 I’m interested in mathematic
-- 🌱 I’m currently learning python for mathematician.
+- 🌱 I’m currently learning C++ for mathematician.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
