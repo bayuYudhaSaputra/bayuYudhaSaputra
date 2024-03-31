@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @bayuYudhaSaputra
-- 👀 I’m interested in mathematic
-- 🌱 I’m currently learning C++ for mathematician.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-bayuYudhaSaputra/bayuYudhaSaputra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1> Tentang Saya </h1>
+<p>
+    Hi... Nama saya #bayuyudhasaputra berasal dari Indonesia. Saya adalah seorang guru sekolah yang tertarik dalam bidang programming.
+    Akun ini berisi hasil belajar saya dalam bidang programming.
+</p>
+<p>
+    Berikut ini adalah hasil belajar yang telah (atau sedang) saya pelajari:
+</p>
+<div>
+    <h2> Dasar-dasar Pemrograman </h2>
+    <ol>
+        <li> <a href="https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang"> Introduction Programming With C++ </a> Oleh Daniel. Y. Liang </li>
+    </ol>
+</div>
