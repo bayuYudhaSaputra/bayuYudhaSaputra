@@ -1,6 +1,6 @@
 <h1> Tentang Saya </h1>
 <p>
-    Hi... Nama saya #bayuyudhasaputra berasal dari Indonesia. Saya adalah seorang guru sekolah yang tertarik dalam bidang programming.
+    Hi... Nama saya #bayuyudhasaputra berasal dari Indonesia. Saya sedang mempelajari fundamental programming.
     Akun ini berisi hasil belajar saya dalam bidang programming.
 </p>
 <p>
