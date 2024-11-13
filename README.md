@@ -9,6 +9,6 @@
 <div>
     <h2> Dasar-dasar Pemrograman </h2>
     <ol>
-        <li> <a href="https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang">Introduction Programming With C++</a> Oleh Daniel. Y. Liang </li>
+        <li> <a href="https://github.com/bayuYudhaSaputra/Python/tree/main/Python_Liang">Introduction Programming With Python</a> Oleh Daniel. Y. Liang </li>
     </ol>
 </div>
